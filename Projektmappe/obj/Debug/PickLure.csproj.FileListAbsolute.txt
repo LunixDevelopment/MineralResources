@@ -1,0 +1,13 @@
+G:\development\PickLure\obj\Debug\PickLure.csproj.AssemblyReference.cache
+G:\development\PickLure\obj\Debug\PickLure.GeneratedMSBuildEditorConfig.editorconfig
+G:\development\PickLure\obj\Debug\PickLure.AssemblyInfoInputs.cache
+G:\development\PickLure\obj\Debug\PickLure.AssemblyInfo.cs
+G:\development\PickLure\obj\Debug\PickLure.csproj.CoreCompileInputs.cache
+G:\development\PickLure\obj\Debug\PickLure.csproj.Up2Date
+G:\development\PickLure\obj\Debug\PickLure.dll
+G:\development\PickLure\obj\Debug\refint\PickLure.dll
+G:\development\PickLure\obj\Debug\ref\PickLure.dll
+D:\altv-server\resources\PickLure\bin\PickLure.deps.json
+D:\altv-server\resources\PickLure\bin\PickLure.dll
+D:\altv-server\resources\PickLure\bin\PickLure.pdb
+G:\development\PickLure\obj\Debug\PickLure.pdb

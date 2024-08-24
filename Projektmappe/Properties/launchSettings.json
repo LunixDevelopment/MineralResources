@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "altv": {
+      "commandName": "Executable",
+      "executablePath": "D:\\altv-server\\altv-server.exe",
+      "workingDirectory": "D:\\altv-server"
+    }
+  }
+}

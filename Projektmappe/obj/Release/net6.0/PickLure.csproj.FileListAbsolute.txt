@@ -1,0 +1,14 @@
+C:\git\csharp\PickLure\bin\Release\net6.0\PickLure.deps.json
+C:\git\csharp\PickLure\bin\Release\net6.0\PickLure.dll
+C:\git\csharp\PickLure\bin\Release\net6.0\AltV.Net.dll
+C:\git\csharp\PickLure\bin\Release\net6.0\AltV.Net.CApi.dll
+C:\git\csharp\PickLure\bin\Release\net6.0\AltV.Net.Shared.dll
+C:\git\csharp\PickLure\obj\Release\net6.0\PickLure.csproj.AssemblyReference.cache
+C:\git\csharp\PickLure\obj\Release\net6.0\PickLure.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\csharp\PickLure\obj\Release\net6.0\PickLure.AssemblyInfoInputs.cache
+C:\git\csharp\PickLure\obj\Release\net6.0\PickLure.AssemblyInfo.cs
+C:\git\csharp\PickLure\obj\Release\net6.0\PickLure.csproj.CoreCompileInputs.cache
+C:\git\csharp\PickLure\obj\Release\net6.0\PickLure.csproj.Up2Date
+C:\git\csharp\PickLure\obj\Release\net6.0\PickLure.dll
+C:\git\csharp\PickLure\obj\Release\net6.0\refint\PickLure.dll
+C:\git\csharp\PickLure\obj\Release\net6.0\ref\PickLure.dll

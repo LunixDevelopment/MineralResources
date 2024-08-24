@@ -1,0 +1,6 @@
+C:\Users\n.schmidt\Desktop\PickLure\bin\PickLure.dll
+C:\Users\n.schmidt\Desktop\PickLure\bin\PickLure.deps.json
+C:\Users\n.schmidt\Desktop\PickLure\bin\PickLure.pdb
+C:\Users\n.schmidt\Desktop\PickLure\bin\AltV.Net.dll
+C:\Users\n.schmidt\Desktop\PickLure\bin\AltV.Net.CApi.dll
+C:\Users\n.schmidt\Desktop\PickLure\bin\AltV.Net.Shared.dll

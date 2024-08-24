@@ -1,0 +1,6 @@
+C:\git\csharp\PickLure\bin\Release\publish\PickLure.dll
+C:\git\csharp\PickLure\bin\Release\publish\PickLure.deps.json
+C:\git\csharp\PickLure\bin\Release\publish\PickLure.pdb
+C:\git\csharp\PickLure\bin\Release\publish\AltV.Net.dll
+C:\git\csharp\PickLure\bin\Release\publish\AltV.Net.CApi.dll
+C:\git\csharp\PickLure\bin\Release\publish\AltV.Net.Shared.dll

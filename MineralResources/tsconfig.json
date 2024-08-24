@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+      "lib": [ "es5", "es6", "esnext" ],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "esnext",
+
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "preserveConstEnums": true,
+
+    "noImplicitAny": true,
+    "sourceMap": false,
+      "outDir": "./client",
+      "baseUrl": ".",
+      "paths": {
+      "alt-client": ["node_modules/@altv/types-client"],
+      "natives": ["node_modules/@altv/types-natives"]
+    }
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+  }
+  

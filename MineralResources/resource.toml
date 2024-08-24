@@ -1,0 +1,4 @@
+type = 'csharp'
+main = 'bin/MineralResources.dll'
+client-main = 'client/client.js'
+client-files = [ 'client/*' ]

@@ -1,0 +1,21 @@
+{
+  "name": "mineralresources",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@altv/types-client": "^16.2.6",
+    "@altv/types-natives": "^16.2.1",
+    "@altv/types-server": "^16.2.4",
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "altv-pkg": "^2.7.5"
+  }
+}

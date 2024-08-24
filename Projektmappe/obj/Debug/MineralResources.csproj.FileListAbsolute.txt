@@ -1,0 +1,16 @@
+D:\altv-server\resources\PickLure\bin\MineralResources.deps.json
+D:\altv-server\resources\PickLure\bin\MineralResources.dll
+D:\altv-server\resources\PickLure\bin\MineralResources.pdb
+D:\altv-server\resources\MineralResources\bin\MineralResources.deps.json
+D:\altv-server\resources\MineralResources\bin\MineralResources.dll
+D:\altv-server\resources\MineralResources\bin\MineralResources.pdb
+G:\development\PickLure\obj\Debug\MineralResources.csproj.AssemblyReference.cache
+G:\development\PickLure\obj\Debug\MineralResources.GeneratedMSBuildEditorConfig.editorconfig
+G:\development\PickLure\obj\Debug\MineralResources.AssemblyInfoInputs.cache
+G:\development\PickLure\obj\Debug\MineralResources.AssemblyInfo.cs
+G:\development\PickLure\obj\Debug\MineralResources.csproj.CoreCompileInputs.cache
+G:\development\PickLure\obj\Debug\MineralR.EA1B6651.Up2Date
+G:\development\PickLure\obj\Debug\MineralResources.dll
+G:\development\PickLure\obj\Debug\refint\MineralResources.dll
+G:\development\PickLure\obj\Debug\MineralResources.pdb
+G:\development\PickLure\obj\Debug\ref\MineralResources.dll
